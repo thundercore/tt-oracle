@@ -1,0 +1,9 @@
+{
+  "name": "@thundercore/oracle",
+  "version": "0.1.0",
+  "description": "ThunderCore Oracle contract interfaces",
+  "main": "TTOracle.sol",
+  "repository": "git@github.com:thundercore/oracle-contract.git",
+  "author": "ThunderCore",
+  "license": "MIT"
+}
