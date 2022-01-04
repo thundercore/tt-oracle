@@ -3,7 +3,19 @@
   "version": "0.1.0",
   "description": "ThunderCore Oracle contract interfaces",
   "main": "TTOracle.sol",
-  "repository": "git@github.com:thundercore/oracle-contract.git",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/thundercore/tt-oracle.git"
+  },
   "author": "ThunderCore",
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://docs.developers.thundercore.com/tools/oracles",
+  "bugs": {
+    "url": "https://github.com/thundercore/tt-oracle/issues"
+  },
+  "keywords": [
+    "ThunderCore",
+    "Oracle"
+  ],
+  "dependencies": {}
 }
